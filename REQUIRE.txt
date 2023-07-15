@@ -1,0 +1,10 @@
+PyPlot
+CSV
+DataFrames
+LinearAlgebra
+Plots
+LaTeXStrings
+Roots
+Graphs
+LightGraphs
+
